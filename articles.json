@@ -1,0 +1,774 @@
+[
+ {
+  "id": "onco-g0",
+  "category": "Oncology",
+  "type": "overview",
+  "title": "Oncology in Guangzhou: the hospitals, the scale, and what they treat",
+  "summary": "The landscape in one article: Guangzhou's major cancer centers, their patient volumes, their specialties, and where international patients fit in.",
+  "content": "Guangzhou is one of China's strongest cities for cancer care, anchored by a small group of public hospital cancer centers with national reputations. This overview maps the landscape before the more specific guides and patient stories that follow.\nThe anchor institution is Sun Yat-sen University Cancer Center, one of the largest and most research-active cancer centers in China. It handles tens of thousands of new cancer patients each year across its campuses, runs a full range of services from surgery to radiotherapy to cell therapy, and is a national leader in several cancer types - notably nasopharyngeal carcinoma, liver cancer, and lymphoma, diseases concentrated in this region.\nAround it sits a deep second tier: the cancer departments of major general hospitals affiliated with Sun Yat-sen University, Southern Medical University (Nanfang Hospital), and Guangdong Provincial People's Hospital, plus the Guangdong Provincial Hospital of Traditional Chinese Medicine for patients who want integrative support alongside conventional treatment. Between them, these centers cover essentially every common and most rare cancer types, with multidisciplinary teams that review complex cases jointly.\nWhat this volume means for an international patient: for the region's characteristic cancers - nasopharyngeal, liver, gastric, esophageal, lung - the treating teams in Guangzhou have seen more cases of your exact disease than almost any center in the West. For rare Western cancers, the honest answer varies by subtype, and a remote review of your records is the right first step.\nCosts at these public centers are published and moderate, and international patient offices handle foreign visitors routinely.\n\nTypical fees at Guangzhou public 3A hospitals - 8 common examinations and 12 common treatments (reference prices converted at roughly 6.7 RMB per US dollar; actual fees follow the hospital's written quote):\nSpecialist consultation (registration): 50 - 100 RMB (about 7 - 15 USD)\nComplete blood count: 20 - 40 RMB (about 3 - 6 USD)\nTumor marker panel: 200 - 500 RMB (about 30 - 75 USD)\nUltrasound (organs): 120 - 200 RMB (about 18 - 30 USD)\nPlain CT scan: about 231 RMB (about 35 USD)\nPlain MRI scan: about 505 RMB (about 75 USD)\nPET-CT (whole body): 2,500 - 4,000 RMB (about 370 - 600 USD)\nGenetic testing (common cancer panel): 3,000 - 8,000 RMB (about 450 - 1,200 USD)\nChemotherapy (one cycle, standard regimen): 3,000 - 10,000 RMB (about 450 - 1,500 USD)\nTargeted therapy (monthly, drug-dependent): 3,000 - 15,000 RMB (about 450 - 2,200 USD)\nImmunotherapy (one cycle): 5,000 - 20,000 RMB (about 750 - 3,000 USD)\nBreast tumor surgery: 20,000 - 40,000 RMB (about 3,000 - 6,000 USD)\nLung cancer surgery: 40,000 - 80,000 RMB (about 6,000 - 12,000 USD)\nLiver resection: 50,000 - 90,000 RMB (about 7,500 - 13,500 USD)\nRadiotherapy (standard full course): 30,000 - 60,000 RMB (about 4,500 - 9,000 USD)\nCAR-T cell therapy (full course, all-in): 600,000 - 1,500,000 RMB (about 90,000 - 220,000 USD)\nProton therapy (full course): 200,000 - 350,000 RMB (about 30,000 - 52,000 USD)\nWard bed (per day, general ward): 60 - 200 RMB (about 9 - 30 USD)\nChemo port / PICC placement: 2,000 - 5,000 RMB (about 300 - 750 USD)\nPalliative care (weekly, ward-based): 1,000 - 3,000 RMB (about 150 - 450 USD)\nSource: government-published reference prices for public medical services (Guangzhou Municipal Healthcare Security Administration); hospitals may set fees up to the published ceiling. Actual fees follow the hospital's written quote.\nGetting there: the main campus is in Yuexiu District, about 40 minutes by taxi from Guangzhou Baiyun International Airport (roughly 150-200 RMB), or about an hour by metro via Line 3. Tap the Directions button on this page to open the hospital in your maps app.\n\n---\nClinic schedules\nUpdated regularly. Specific physician consultation schedules for international patients, once confirmed with each department, will be listed in this section. Check back before planning your visit, or contact us and we will confirm current availability directly.",
+  "map_query": "Sun Yat-sen University Cancer Center, 651 Dongfeng East Road, Yuexiu District, Guangzhou",
+  "doctor_directory": {
+   "updated_date": "2026-11-12",
+   "hospitals": [
+    {
+     "name": "Sun Yat-sen University Cancer Center",
+     "name_cn": "中山大学肿瘤防治中心",
+     "doctors": [
+      {
+       "name": "Mai Haiqiang",
+       "name_cn": "麦海强",
+       "title": "Professor, Chief Physician, Doctoral Supervisor; Assistant President and Director of Nasopharyngeal Carcinoma",
+       "department": "Nasopharyngeal Carcinoma",
+       "bio": "The hospital profile describes his work in early diagnosis, individualized combined treatment, treatment-response prediction and prognosis research for nasopharyngeal carcinoma.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Xiang Yanqun",
+       "name_cn": "向燕群",
+       "title": "Professor and Deputy Director of Nasopharyngeal Carcinoma",
+       "department": "Nasopharyngeal Carcinoma",
+       "bio": "The official profile focuses on diagnosis and treatment of nasopharyngeal carcinoma and lists doctoral oncology training and further study in the United States.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Guo Xiang",
+       "name_cn": "郭翔",
+       "title": "Professor, Chief Physician and Doctoral Supervisor",
+       "department": "Nasopharyngeal Carcinoma",
+       "bio": "The official profile states that he has specialized in nasopharyngeal carcinoma since 1995, with radiation-oncology and postdoctoral training and long-standing clinical and research experience.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Lv Xing",
+       "name_cn": "吕星",
+       "title": "Chief Physician",
+       "department": "Nasopharyngeal Carcinoma",
+       "bio": "The hospital profile describes personalized comprehensive treatment of nasopharyngeal carcinoma, protocol optimization, deep-learning prognosis research and new therapeutic combinations.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Chong Zhao",
+       "name_cn": "赵充",
+       "title": "Professor, Chief Physician and Master's Supervisor",
+       "department": "Nasopharyngeal Carcinoma / Radiation Oncology",
+       "bio": "With more than 30 years in radiation oncology, his official profile covers radiotherapy and combined treatment of head-and-neck cancers, especially nasopharyngeal carcinoma.",
+       "category": "Oncology"
+      }
+     ]
+    },
+    {
+     "name": "Clifford Hospital",
+     "name_cn": "祈福医院",
+     "doctors": [
+      {
+       "name": "Ben Yanjie",
+       "name_cn": "贲彦捷",
+       "title": "Chief Physician and Deputy Director of Ophthalmology",
+       "department": "Ophthalmology",
+       "bio": "With more than 20 years in ophthalmology, his official profile covers phacoemulsification with intraocular-lens implantation, glaucoma, pterygium, strabismus and oculoplastic procedures.",
+       "category": "Eye care"
+      },
+      {
+       "name": "Wang Zhenfang",
+       "name_cn": "汪振芳",
+       "title": "Specially Appointed Expert, Chief Physician, Professor and Master's Supervisor",
+       "department": "Ophthalmology",
+       "bio": "The official profile covers common eye diseases, complex ocular trauma, chemical injuries and fundus disease, including ocular-trauma and vitreoretinal surgery.",
+       "category": "Eye care"
+      },
+      {
+       "name": "Zhang Rijia",
+       "name_cn": "张日佳",
+       "title": "Associate Chief Physician",
+       "department": "Ophthalmology",
+       "bio": "With 20 years in clinical ophthalmology, research and teaching, her official profile covers diabetic retinopathy, macular and retinal vascular disease, optic-nerve disease, retinal laser and vitreoretinal surgery.",
+       "category": "Eye care"
+      },
+      {
+       "name": "Cai Qichun",
+       "name_cn": "蔡绮纯",
+       "title": "Chief Physician, Doctor of Oncology and Director of Cancer Center",
+       "department": "Oncology",
+       "bio": "Her official profile covers chemotherapy, targeted therapy and immunotherapy for lymphoma, head-and-neck, lung, gastrointestinal and gynecologic cancers, with previous work at Guangdong Provincial People's Hospital.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Zhou Lili",
+       "name_cn": "周黎黎",
+       "title": "Chief Physician and Specialty Lead",
+       "department": "Oncology and Gastroenterology",
+       "bio": "The official profile describes more than 30 years of clinical and teaching experience in tertiary hospitals, covering digestive diseases, critical care and gastrointestinal cancers.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Dong Ying",
+       "name_cn": "董滢",
+       "title": "Associate Chief Physician, Director of Stomatology and Implantology Specialist",
+       "department": "Stomatology / Implantology",
+       "bio": "The official profile describes more than 20 years in clinical dentistry, covering implant restoration for partial and complete tooth loss, immediate anterior aesthetic implants, complex cases with insufficient bone volume and sequential periodontal treatment.",
+       "category": "Dental"
+      },
+      {
+       "name": "He Hongbing",
+       "name_cn": "何洪冰",
+       "title": "Associate Chief Physician, Prosthodontics and Implantology Specialist",
+       "department": "Stomatology / Prosthodontics and Implantology",
+       "bio": "The official profile describes more than 30 years in clinical dentistry and teaching, covering tooth preservation, adhesive aesthetic and inlay restorations, crowns and bridges, implant restoration for partial or complete tooth loss, complete and removable dentures, and oral-health management.",
+       "category": "Dental"
+      },
+      {
+       "name": "Fang Huajuan",
+       "name_cn": "方华娟",
+       "title": "Associate Chief Physician and Orthodontics Specialist",
+       "department": "Stomatology / Orthodontics",
+       "bio": "The official profile describes more than 10 years in clinical dentistry and further orthodontic training at the Hospital of Guanghua School of Stomatology, with work in early childhood intervention, fixed and clear-aligner treatment for adolescents and adults, and compensatory treatment of skeletal malocclusion.",
+       "category": "Dental"
+      }
+     ]
+    },
+    {
+     "name": "Nanfang Hospital, Southern Medical University",
+     "name_cn": "南方医科大学南方医院",
+     "doctors": [
+      {
+       "name": "Liao Wangjun",
+       "name_cn": "廖旺军",
+       "title": "Professor, Chief Physician, Doctoral Supervisor and Director of Oncology",
+       "department": "Medical Oncology",
+       "bio": "The official profile covers comprehensive treatment of colorectal, gastric, lung, liver, esophageal and head-and-neck cancers, with a focus on individualized gastrointestinal and lung-cancer care.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Zheng Hang",
+       "name_cn": "郑航",
+       "title": "Chief Physician, Associate Professor and Master's Supervisor",
+       "department": "Medical Oncology",
+       "bio": "With more than 30 years in oncology, his official profile covers chemotherapy, targeted therapy, immunotherapy, combined treatment and supportive care for common cancers.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Kang Shijun",
+       "name_cn": "康世均",
+       "title": "Chief Physician, Associate Professor and Doctoral Supervisor",
+       "department": "Medical Oncology",
+       "bio": "The hospital profile covers lung-cancer treatment using chemotherapy, targeted therapy, immunotherapy, radiofrequency ablation and hyperthermic perfusion, as well as other common cancers.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Shi Min",
+       "name_cn": "石敏",
+       "title": "Chief Physician, Doctoral Supervisor and Deputy Department Director",
+       "department": "Medical Oncology / Gastrointestinal Cancers",
+       "bio": "With more than 20 years in oncology, her official profile covers individualized treatment and longitudinal management of colorectal, gastric, esophageal, lung and liver cancers.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Liang Weijiang",
+       "name_cn": "梁卫江",
+       "title": "Chief Physician, Master's Supervisor, MD",
+       "department": "Medical Oncology",
+       "bio": "The official profile covers chemotherapy, targeted therapy, immunotherapy and combined cancer care, with particular experience in gynecologic and breast cancers.",
+       "category": "Oncology"
+      }
+     ]
+    },
+    {
+     "name": "Guangdong Provincial People's Hospital",
+     "name_cn": "广东省人民医院",
+     "doctors": [
+      {
+       "name": "Wu Yilong",
+       "name_cn": "吴一龙",
+       "title": "Professor, Chief Physician, Doctoral Supervisor and Hospital Chief Expert",
+       "department": "Pulmonary Oncology II / Lung Cancer",
+       "bio": "The official profile highlights long-term work in precision lung-cancer treatment and clinical research, and lists him as a hospital chief expert and honorary director of Guangdong Lung Cancer Institute.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Zhou Qing",
+       "name_cn": "周清",
+       "title": "Chief Physician, Department Director and Doctoral Supervisor",
+       "department": "Pulmonary Oncology II / Lung Cancer",
+       "bio": "Her official profile covers multidisciplinary lung-cancer care centered on molecular targeted therapy and immunotherapy, biomarker-guided precision treatment and resistance strategies.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Xu Chongrui",
+       "name_cn": "徐崇锐",
+       "title": "Associate Chief Physician, MD",
+       "department": "Pulmonary Oncology II / Lung Cancer",
+       "bio": "The hospital profile describes multidisciplinary lung-cancer care, immunotherapy and individualized treatment informed by genetic features, with training at Memorial Sloan Kettering Cancer Center.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Wang Binchao",
+       "name_cn": "汪斌超",
+       "title": "Associate Chief Physician",
+       "department": "Pulmonary Oncology II / Lung Cancer",
+       "bio": "His official profile covers comprehensive lung-cancer care and diagnostic or interventional procedures including percutaneous biopsy, airway endoscopy, EBUS and medical thoracoscopy.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Lu Chang",
+       "name_cn": "鲁畅",
+       "title": "Physician, Doctor of Oncology",
+       "department": "Pulmonary Oncology II / Lung Cancer",
+       "bio": "The official profile describes medical, multidisciplinary and individualized lung-cancer care, with experience in uncommon mutations in non-small-cell lung cancer.",
+       "category": "Oncology"
+      }
+     ]
+    },
+    {
+     "name": "Guangdong Provincial Hospital of TCM",
+     "name_cn": "广东省中医院",
+     "doctors": [
+      {
+       "name": "Zhang Haibo",
+       "name_cn": "张海波",
+       "title": "Chief Physician, Professor and Distinguished Expert",
+       "department": "Oncology, Dade Road Main Hospital",
+       "bio": "The official profile describes integrative Chinese and Western cancer care, acupuncture–herbal combined approaches, minimally invasive techniques and supportive care alongside conventional treatments.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Chai Xiaoshu",
+       "name_cn": "柴小姝",
+       "title": "Chief Physician of Traditional Chinese Medicine, MD",
+       "department": "Oncology, University Town Hospital",
+       "bio": "Her official profile covers acupuncture–herbal treatment for solid tumors and integrative support alongside radiotherapy, chemotherapy, targeted therapy, immunotherapy and interventional treatment.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Li Yong",
+       "name_cn": "李勇",
+       "title": "Chief Physician",
+       "department": "Oncology, Dade Road Main Hospital",
+       "bio": "The hospital profile describes integrative treatment of gastrointestinal, lung, breast and liver cancers, minimally invasive ablation and vascular intervention, and training at Sun Yat-sen University Cancer Center.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Liu Lirong",
+       "name_cn": "刘丽荣",
+       "title": "Associate Chief Physician",
+       "department": "Oncology, Dade Road Main Hospital",
+       "bio": "Her official profile covers integrative medical oncology, especially lung, colorectal, breast and ovarian cancers, including immunotherapy, chemotherapy, targeted and endocrine therapy.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Lu Min",
+       "name_cn": "逯敏",
+       "title": "Associate Chief Physician",
+       "department": "Oncology (Zhuhai Hospital)",
+       "bio": "With nearly 20 years in oncology, her official profile describes Chinese-medicine care for multiple cancers, quality-of-life support and reduction of treatment side effects. She is listed at the Zhuhai Hospital.",
+       "category": "Oncology"
+      }
+     ]
+    },
+    {
+     "name": "The First Affiliated Hospital, Sun Yat-sen University",
+     "name_cn": "中山大学附属第一医院",
+     "doctors": [
+      {
+       "name": "Long Jianting",
+       "name_cn": "龙健婷",
+       "title": "Chief Physician",
+       "department": "Medical Oncology",
+       "bio": "The official profile covers breast, head-and-neck, lung and gastrointestinal cancers, longitudinal care, targeted therapy, immunotherapy and complex cases, with training at the University of Michigan cancer center.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Xu Lixia",
+       "name_cn": "许丽霞",
+       "title": "Chief Physician",
+       "department": "Medical Oncology",
+       "bio": "The official profile describes medical oncology and individualized chemotherapy, targeted therapy and immunotherapy for liver, biliary, pancreatic, colorectal and gastric cancers.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Zhang Jiaxing",
+       "name_cn": "张家兴",
+       "title": "Chief Physician",
+       "department": "Medical Oncology",
+       "bio": "With decades in comprehensive oncology, his official profile covers genitourinary, gynecologic, lung, gastrointestinal, breast, head-and-neck cancers and lymphoma, including palliative and nutritional support.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Wang Fang",
+       "name_cn": "汪芳",
+       "title": "Associate Chief Physician",
+       "department": "Medical Oncology",
+       "bio": "With nearly 20 years in oncology, her official profile covers individualized immunotherapy, targeted therapy and chemotherapy, longitudinal management and treatment-related complications.",
+       "category": "Oncology"
+      },
+      {
+       "name": "Chen Kai",
+       "name_cn": "陈凯",
+       "title": "Associate Chief Physician",
+       "department": "Medical Oncology",
+       "bio": "The official profile covers chemotherapy, targeted therapy and immunotherapy, especially for lung, gastrointestinal, breast cancers and lymphoma, including immune-related adverse effects, pain and nutrition.",
+       "category": "Oncology"
+      }
+     ]
+    },
+    {
+     "name": "Zhongshan Ophthalmic Center, SYSU",
+     "name_cn": "中山大学中山眼科中心",
+     "doctors": [
+      {
+       "name": "Lin Haotian",
+       "name_cn": "林浩添",
+       "title": "Professor, Chief Physician, Doctoral Supervisor; Center Director and Hospital President",
+       "department": "Cataract",
+       "bio": "The official profile covers phacoemulsification with intraocular-lens implantation, congenital cataract, medical big data and translational artificial intelligence.",
+       "category": "Eye care"
+      },
+      {
+       "name": "Luo Lixia",
+       "name_cn": "罗莉霞",
+       "title": "Professor, Chief Physician, Doctoral Supervisor and Director of Cataract Department",
+       "department": "Cataract",
+       "bio": "Her official profile covers phacoemulsification and intraocular-lens implantation for different cataract types, precision refractive-cataract calculations and complex cases.",
+       "category": "Eye care"
+      },
+      {
+       "name": "Huang Shengsong",
+       "name_cn": "黄圣松",
+       "title": "Chief Physician, MD and Master's Supervisor",
+       "department": "Cataract",
+       "bio": "With more than 30 years in ophthalmology, his official profile covers minimally invasive and complex cataract surgery, plus early diagnosis and treatment of cataract and glaucoma.",
+       "category": "Eye care"
+      },
+      {
+       "name": "Shao Yingfeng",
+       "name_cn": "邵应峰",
+       "title": "Associate Chief Physician, MD",
+       "department": "Cornea, Dry Eye and Ocular Surface",
+       "bio": "The official profile covers corneal and ocular-surface disease, corneal transplantation, artificial cornea, lacrimal and oculoplastic procedures, and anterior-segment surgery.",
+       "category": "Eye care"
+      },
+      {
+       "name": "Long Chongde",
+       "name_cn": "龙崇德",
+       "title": "Professor, Chief Physician and Doctoral Supervisor",
+       "department": "Ocular Trauma",
+       "bio": "The official profile describes ocular-trauma care, emergency repair, traumatic cataract, vitrectomy, retinal-detachment repair, intraocular foreign bodies and complex chemical injuries.",
+       "category": "Eye care"
+      }
+     ]
+    },
+    {
+     "name": "Aier Eye Hospital (Guangzhou)",
+     "name_cn": "广州爱尔眼科医院",
+     "doctors": [
+      {
+       "name": "Wang Zheng",
+       "name_cn": "王铮",
+       "title": "Professor, Chief Physician and Doctoral Supervisor",
+       "department": "Refractive Surgery",
+       "bio": "The official Aier profile covers SMILE, femtosecond and excimer laser procedures and ICL implantation, including complex refractive cases and surgical complications.",
+       "category": "Eye care"
+      },
+      {
+       "name": "Xiong Lu",
+       "name_cn": "熊露",
+       "title": "Chief Physician and Director of Refractive Surgery Center",
+       "department": "Refractive Surgery",
+       "bio": "The official profile covers surgical correction of myopia, hyperopia, astigmatism and presbyopia, including ICL, SMILE, femtosecond-LASIK and customized procedures.",
+       "category": "Eye care"
+      },
+      {
+       "name": "Li Donghao",
+       "name_cn": "李东豪",
+       "title": "Chief Physician and Vice President",
+       "department": "Comprehensive Ophthalmology / Cornea and Dry Eye",
+       "bio": "The official profile covers corneal disease, dry eye, pediatric myopia, fundus disease, cataract and glaucoma, alongside a range of ophthalmic surgery.",
+       "category": "Eye care"
+      },
+      {
+       "name": "Zhang Jinglin",
+       "name_cn": "张静琳",
+       "title": "Chief Physician, US-trained Doctor, Master's Supervisor and Vice President",
+       "department": "Fundus Disease / Retina",
+       "bio": "The official profile covers diabetic retinopathy, macular disease, complex retinal detachment, severe ocular trauma, uveitis and optic-nerve disorders.",
+       "category": "Eye care"
+      },
+      {
+       "name": "Wu Zheming",
+       "name_cn": "武哲明",
+       "title": "Chief Physician and Director of Cataract and Glaucoma Department",
+       "department": "Cataract and Glaucoma",
+       "bio": "The official profile covers cataract and glaucoma care, refractive and femtosecond-laser cataract surgery, and complex lens disorders.",
+       "category": "Eye care"
+      }
+     ]
+    },
+    {
+     "name": "Hospital of Guanghua School of Stomatology, SYSU",
+     "name_cn": "中山大学附属口腔医院（光华口腔）",
+     "doctors": [
+      {
+       "name": "Chen Zhuofan",
+       "name_cn": "陈卓凡",
+       "title": "Chief Physician, Professor, Doctoral Supervisor and Director of Implantology",
+       "department": "Oral Implantology",
+       "bio": "The official profile covers immediate implant placement and restoration, implants for periodontal patients, aesthetic and digital minimally invasive implantology, bone defects and edentulous rehabilitation, with doctoral training at the University of Hong Kong.",
+       "category": "Dental"
+      },
+      {
+       "name": "Wang Jinming",
+       "name_cn": "王劲茗",
+       "title": "Chief Physician, Doctoral Supervisor and Deputy Director of Implantology",
+       "department": "Oral Implantology",
+       "bio": "The official profile covers implant restoration for partial and complete tooth loss, occlusal reconstruction, minimally invasive and anterior aesthetic implantology, with 27 years in clinical care, teaching and research.",
+       "category": "Dental"
+      },
+      {
+       "name": "Huang Baoxin",
+       "name_cn": "黄宝鑫",
+       "title": "Chief Physician, Doctoral Supervisor and Deputy Director of Implantology",
+       "department": "Oral Implantology",
+       "bio": "The official profile covers immediate anterior implants, implants with insufficient bone volume, edentulous and digital implant restoration, and prevention and management of peri-implantitis.",
+       "category": "Dental"
+      },
+      {
+       "name": "Chen Zetao",
+       "name_cn": "陈泽涛",
+       "title": "Chief Physician, Professor, Research Fellow and Doctoral Supervisor",
+       "department": "Oral Implantology",
+       "bio": "The official profile covers digital minimally invasive precision implantology, aesthetic and edentulous restoration, soft-tissue and bone augmentation, and single or multiple implants.",
+       "category": "Dental"
+      },
+      {
+       "name": "Wang Lin",
+       "name_cn": "王琳",
+       "title": "Chief Physician, Doctor of Clinical Stomatology",
+       "department": "Oral Implantology",
+       "bio": "The official profile covers implant restoration for partial tooth loss, fixed implant rehabilitation for edentulous jaws and implants following jaw-bone defects; she is listed as an ITI member.",
+       "category": "Dental"
+      }
+     ]
+    },
+    {
+     "name": "Guangdong Provincial Stomatological Hospital",
+     "name_cn": "广东省口腔医院",
+     "doctors": [
+      {
+       "name": "Xu Shulan",
+       "name_cn": "徐淑兰",
+       "title": "Professor, Chief Physician, Master's Supervisor and Hospital Vice President",
+       "department": "Oral Implantology",
+       "bio": "The hospital lists her as an implantology specialist and vice president, with extensive clinical, teaching and academic roles in oral implantology.",
+       "category": "Dental"
+      },
+      {
+       "name": "Liu Weiping",
+       "name_cn": "刘卫平",
+       "title": "Chief Physician and Director of Implant Restoration, Haizhu Square Campus",
+       "department": "Implant Prosthodontics",
+       "bio": "With nearly 30 years in implant restoration, his official profile covers anterior aesthetics, posterior sites with insufficient bone, simultaneous bone augmentation and immediate post-extraction implants.",
+       "category": "Dental"
+      },
+      {
+       "name": "Song Guangbao",
+       "name_cn": "宋光保",
+       "title": "Chief Physician, Doctorate, Master's Supervisor and Director of Special Clinic Center",
+       "department": "Implant Prosthodontics / Special Clinic",
+       "bio": "The official profile identifies him as an implant-restoration specialist with extensive experience in implant prosthodontics and management of food impaction.",
+       "category": "Dental"
+      },
+      {
+       "name": "Rong Mingdeng",
+       "name_cn": "容明灯",
+       "title": "Chief Physician, Doctoral Supervisor and Director of Restorative Implantology",
+       "department": "Restorative Implantology",
+       "bio": "The hospital lists him as an oral implantology specialist and director of restorative implantology, with professional and research roles in implantology and dental aesthetics.",
+       "category": "Dental"
+      },
+      {
+       "name": "Jia Fang",
+       "name_cn": "贾芳",
+       "title": "Associate Chief Physician, MD",
+       "department": "Implant Prosthodontics",
+       "bio": "The official profile covers conventional implant restoration, immediate full-arch implant placement and restoration, digitally guided implantology, removable dentures and complex crown restoration.",
+       "category": "Dental"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "onco-g1",
+  "category": "Oncology",
+  "type": "guide",
+  "title": "Cancer care in China: what international patients should know about top-tier public hospitals",
+  "summary": "How China's 3A public hospitals compare internationally, and why major Chinese cities have become a serious option for cancer treatment.",
+  "content": "China's best cancer care is concentrated in its top-tier public hospitals, known as 3A (san-jia) hospitals - the highest grade awarded by the National Health Commission. There are roughly 1,500 of them nationwide, and several in Guangzhou rank among the country's strongest for oncology.\nThe volume these hospitals handle is enormous. Large cancer centers in China treat tens of thousands of new cancer patients each year - volumes comparable to or exceeding the largest US centers. High volume matters in oncology: surgeons and radiotherapy teams who perform a procedure hundreds of times a year develop a depth of routine experience that smaller centers cannot match.\nChinese oncology departments follow international treatment guidelines, including NCCN and ESMO protocols, and Chinese researchers now publish heavily in international oncology journals. For many common cancer types - lung, breast, colorectal, liver, nasopharyngeal - treatment outcomes at leading Chinese centers are comparable to Western benchmarks.\nFor international patients, the practical appeal is usually a combination of three things: shorter waiting times for treatment planning, significantly lower overall costs, and access to advanced therapies at moderate, published prices. This series of articles walks through each of these points, department by department and step by step.\nOne important note: Chinese hospitals are public institutions, not hotel-style private clinics. Facilities can be busy, and English support varies by hospital. That is precisely the gap a medical navigation service fills - language, scheduling, and coordination - so that you can focus on the treatment itself."
+ },
+ {
+  "id": "onco-g2",
+  "category": "Oncology",
+  "type": "guide",
+  "title": "Advanced cancer therapies in China: CAR-T, proton therapy, and what they cost",
+  "summary": "China is one of the world's largest CAR-T markets, and proton therapy centers are expanding. What international patients should understand about access and cost.",
+  "content": "Two categories of advanced cancer treatment draw the most attention from international patients: cell therapy and proton therapy.\nChina is currently one of the world's largest markets for CAR-T cell therapy. Multiple CAR-T products are approved and in clinical use, with China's regulators having moved faster than the FDA on several indications. On cost: a full course of approved CAR-T therapy at a Chinese center - treatment, hospitalization, and monitoring - is typically quoted in the range of roughly 600,000 to 1,500,000 RMB (about $90,000 - $220,000), depending on the product and regimen. Written hospital quotes are the reliable reference. Several Chinese CAR-T products are also being studied for autoimmune diseases, a fast-growing area.\nProton therapy is the other draw. China has been building proton and heavy-ion centers at a rapid pace, and a full course of treatment at these centers typically costs in the range of 200,000 - 350,000 RMB (about $30,000 - $52,000), quoted in writing by the hospital.\nA few practical points. First, not every patient is a candidate for these therapies - eligibility depends on cancer type, stage, and prior treatment, and this is decided by the treating hospital, not by any intermediary. Second, timelines matter: cell therapy involves collection, manufacturing, and infusion steps that take weeks, so plan for a stay of at least one to two months. Third, always ask the hospital directly about total cost estimates in writing before making decisions.\nIf you are exploring these options from abroad, the first concrete step is getting your existing pathology reports and imaging organized and translated - hospitals in China can review records remotely before you ever board a plane."
+ },
+ {
+  "id": "onco-g3",
+  "category": "Oncology",
+  "type": "guide",
+  "title": "Getting cancer treatment in Guangzhou: the full journey from first contact to treatment plan",
+  "summary": "A step-by-step map of what actually happens when an international patient pursues cancer care in Guangzhou.",
+  "content": "Here is the realistic sequence for an international patient seeking cancer treatment in Guangzhou, based on how the process typically runs.\nStep 1: Remote pre-assessment. You gather your key documents - pathology reports, imaging discs, a treatment summary from your current oncologist, and recent blood work. These are translated into Chinese and reviewed by the hospital's international office or the department you are targeting. Many hospitals give a preliminary opinion without you traveling.\nStep 2: Appointment scheduling. Once the hospital confirms it can accept your case, an appointment is booked. This is the point where scheduling support matters most - popular departments fill quickly, and knowing when slots actually open makes a real difference.\nStep 3: Travel and arrival. Guangzhou is served by Baiyun International Airport with direct flights from many US, Asian, and Middle Eastern cities. Most nationalities need a visa; for medical purposes, hospitals can issue an invitation letter that supports a visa application. Plan to arrive two to three days before your appointment.\nStep 4: In-hospital process. First visits typically include registration with the international patient desk, a review of your records, and a consultation with the specialist. Expect additional tests - imaging, blood work - because Chinese physicians generally want current data from their own systems before finalizing a plan.\nStep 5: Treatment plan and cost confirmation. The hospital provides a written treatment plan and cost estimate. Review it, ask questions, and only then commit.\nThroughout this journey, the recurring bottlenecks for foreign patients are language, scheduling, and knowing which department and which specialist fits the case. These are coordination problems - solvable ones - and they are the core of what a navigation service does."
+ },
+ {
+  "id": "onco-g4",
+  "category": "Oncology",
+  "type": "guide",
+  "title": "What cancer treatment costs in China",
+  "summary": "A framework for budgeting: drug and surgery costs, the expenses people forget, and how to get a written estimate you can plan around.",
+  "content": "What does cancer treatment cost in China? The honest answer: it depends on the treatment, and the only number that truly counts is the written quote from the hospital. This article gives a framework for understanding the cost structure and budgeting realistically.\nWhere costs are most manageable: oncology drugs. China's national price negotiations have brought cancer drug prices down substantially, and many newer agents are now available at a fraction of their original list prices. Surgical fees at public hospitals are published and moderate - a major cancer operation at a top Guangzhou hospital is typically quoted in the range of tens of thousands of RMB (several thousand US dollars), depending on the procedure and the ward class.\nWhere to be careful: not every drug or device is available in China, and imported items not on the market can be costly. Some therapies - cell therapies most of all - run into the hundreds of thousands of RMB, which is exactly why a written quote before any commitment matters.\nThe hidden costs people forget: travel for you and a companion, accommodation for weeks or months, translation of records, follow-up care after you return home, and the possibility of more than one trip. A realistic budget adds these to the hospital's estimate - allow 30-50% on top of the medical quote for the full journey.\nA note on payment: international patients pay cash and generally do not join the local insurance system. Hospitals provide written, itemized estimates, and a deposit is required to secure treatment slots. Get the quote, review it, ask questions - and only then commit."
+ },
+ {
+  "id": "onco-g5",
+  "category": "Oncology",
+  "type": "guide",
+  "title": "Visas, length of stay and family logistics for cancer treatment in China",
+  "summary": "The non-medical side of the journey: visa types, how long to plan for, and how families typically organize the stay.",
+  "content": "Once a hospital accepts your case, the practical questions arrive: what visa, how long will we be there, and how do we live in Guangzhou for weeks or months?\nVisa: the standard route is a tourist (L) visa, which covers medical visits for most short stays. For longer treatment courses, hospitals can issue an official invitation letter that supports a longer visa or an extension. Hong Kong residents and many passport holders have separate arrangements - check the current rules for your nationality, as they change.\nLength of stay: plan in phases. For a surgical case, a common pattern is one to two weeks for pre-operative workup, surgery, and initial recovery. For radiotherapy or chemotherapy courses, stays of four to eight weeks are typical. For cell therapies, two months or more.\nFamily logistics: most international patients bring one companion. Guangzhou has abundant short-term serviced apartments near major hospital districts, at costs far below comparable US cities. Hospital international offices can often suggest options. International supermarkets and Western restaurants are easy to find in central districts.\nCommunication: bring a translated summary of your medical history. Mobile payments (Alipay/WeChat Pay) now accept many foreign cards, and eSIM data plans are easy to arrange before arrival. Interpretation is the one thing to plan carefully - hospital translators cover formal consultations, but day-to-day navigation is much smoother with dedicated language support.\nThe families who have the smoothest experiences are the ones who treat logistics as part of the treatment plan - decided in advance, not improvised at the hospital door."
+ },
+ {
+  "id": "onco-s1",
+  "category": "Oncology",
+  "type": "story",
+  "title": "A lung cancer patient got a treatment plan in Guangzhou in nine days - her timeline at home was four months",
+  "summary": "Based on a real case; identifying details have been removed. A story about waiting times, second opinions, and what speed is worth.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nM., a woman in her late fifties from the US Midwest, was diagnosed with early-stage lung cancer in the spring. Her local oncology system quoted roughly four months from first consultation to the start of treatment - a queue for the specialist, a queue for staging scans, a queue for the treatment planning meeting.\nThrough a friend in the Chinese community, her family asked a Guangzhou cancer center for a second opinion. They sent her pathology slides, PET scan discs, and a clinical summary - translated into Chinese within days.\nThe hospital's response came in nine days: yes, they could accept her; a written preliminary treatment plan followed a week later, with a clear itemized cost estimate she could plan around - flights and a month of accommodation included.\nShe flew to Guangzhou with her daughter. Workup took four days, the multidisciplinary team met, and treatment started in the second week. She completed her course, recovered well, and flew home. Her US oncologist reviewed the Chinese treatment records and continued her follow-up care at home - which is the arrangement we recommend for every patient: treatment in China, follow-up where you live.\nWhat made the difference was not any single dramatic moment. It was that every step - records, translation, scheduling, the invitation letter - was handled in parallel rather than in sequence. That is what compressed months into weeks.\nHer daughter's summary, in an email to us afterward: 'The medicine was the same class we would have gotten at home. The difference was the calendar.'"
+ },
+ {
+  "id": "onco-s2",
+  "category": "Oncology",
+  "type": "story",
+  "title": "Breast cancer, two opinions, one decision: how a Texas teacher weighed Houston against Guangzhou",
+  "summary": "Based on a real case; identifying details have been removed. A story about how a family actually makes this decision.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nA high-school teacher in Texas, diagnosed with breast cancer, faced a familiar American equation: her insurance covered treatment at an in-network center, but her preferred specialist had a six-week wait, and the out-of-pocket exposure from her high-deductible plan was still significant.\nHer sister, who lives in Shenzhen, urged her to at least get a Chinese opinion. She was skeptical - the flight alone was fourteen hours. But the exercise cost her nothing but a weekend of organizing records, so she did it.\nThe Guangzhou opinion came back with two things she did not expect. First, a written plan that was medically conventional - no exotic promises, just a clear, guideline-based protocol. Second, a total cost figure, all-in, in writing - so the family could plan the trip around a real number.\nWhat decided it for her was not the money. It was the calendar, again: in Guangzhou, treatment would start in about three weeks, versus two months at home. For an aggressive subtype, that difference felt clinical, not merely convenient.\nShe went. The treatment went according to plan. Her hair grew back in Texas, not Guangzhou - she flew home as soon as her oncologist cleared her, and her follow-up care continued locally.\nThe lesson she asked us to pass on: 'Do the second-opinion exercise even if you are sure you will stay home. It is a weekend of paperwork. It either gives you a real option, or it makes you certain about the one you already have.'"
+ },
+ {
+  "id": "onco-s3",
+  "category": "Oncology",
+  "type": "story",
+  "title": "Lymphoma and cell therapy: a family that priced CAR-T in two countries before choosing",
+  "summary": "Based on a real case; identifying details have been removed. A story about the arithmetic that drives the biggest decisions.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nWhen R., a man in his sixties with relapsed lymphoma, was told CAR-T cell therapy was his best remaining option, his family did what families do: they started calling. The therapy they needed was available in both countries, and the family's first task was to understand what it would cost.\nA relative mentioned that CAR-T is widely used in China - one of the world's largest CAR-T markets, with approved products and large clinical experience. The family requested a review of his records by a Guangzhou hematology team.\nThe Guangzhou team reviewed his records and came back with a written plan: same class of therapy, comparable manufacturing technology, and a hospital system with very large CAR-T volumes. The quoted total - therapy, hospitalization, monitoring - came to several hundred thousand RMB, every item listed. Even adding two months of flights, accommodation for his wife, and translation support, it was a number the family could plan around.\nThey went to Guangzhou. The process took about seven weeks from collection to infusion to initial monitoring - longer than they hoped, normal for cell therapy. He responded well and returned home, where his local oncologist took over follow-up care.\nTwo things his son said afterward stuck with us. First: 'Nobody at the Chinese hospital promised us anything. They showed us data and let us decide.' Second: 'The hardest part of the whole thing was the paperwork at the beginning. Everything after that was just... organized.'"
+ },
+ {
+  "id": "onco-s4",
+  "category": "Oncology",
+  "type": "story",
+  "title": "A family of three flew from California for a father's liver cancer surgery - and why they would do it again",
+  "summary": "Based on a real case; identifying details have been removed. A story about surgery abroad, recovery, and family logistics.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nWhen D.'s father was diagnosed with liver cancer, the family in California weighed two paths: surgery at home with a two-month wait, or moving quickly overseas. D.'s wife, originally from Guangzhou, knew the hospital landscape there and pushed for a remote review.\nThe Guangzhou hepatobiliary team reviewed the imaging and said two things plainly: he was operable, and they could schedule within three weeks. The family made the decision in a single weekend.\nThree people flew over: the father, D., and his wife, who handled language. The surgery was performed by a senior surgeon whose unit handles a very high volume of liver resections. He spent eight days in hospital, recovered in a serviced apartment for another two weeks, and was cleared to fly home.\nTotal time away: five weeks. The written, itemized quote - all three flights and the apartment included - was a number the family could plan around.\nD.'s reflection, a year later, at his father's clean follow-up scans: 'The thing I did not expect was how normal it felt. Big public hospital, busy corridors. But every step had been arranged - we always knew where to go, who we were seeing, and what it cost. I have had worse experiences scheduling cars in the US.'\nHis advice for other families: bring one person whose only job is logistics, or hire that support. The patient should spend his energy on one thing only - getting better."
+ },
+ {
+  "id": "onco-s5",
+  "category": "Oncology",
+  "type": "story",
+  "title": "Nasopharyngeal cancer: the disease where Southern China is one of the world's most experienced places to be treated",
+  "summary": "Based on a real case; identifying details have been removed. A story about going to where a disease is best understood.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nNasopharyngeal carcinoma (NPC) is rare in the West but concentrated in Southern China and Southeast Asia - and that concentration matters. The world's deepest clinical experience with NPC, its radiation protocols, and its long-term management sits in exactly the region around Guangzhou.\nA patient in his forties, living in New York and diagnosed with NPC, discovered this geography the hard way: his local center treated only a handful of NPC cases a year. His radiation oncologist was competent and candid - and told him that published experience on his specific subtype was dominated by Chinese and Hong Kong centers.\nThrough family connections he arranged a review at a Guangzhou cancer center. What he found was a department for whom NPC was a routine, high-volume specialty - not a rarity. The radiation planning team showed him survival data from their own large patient series, with long follow-up.\nHe completed radiotherapy in Guangzhou over seven weeks, with his sister as companion. Acute side effects were managed aggressively - the team's experience with mucositis and swallowing support was, in his words, 'on another level from anything I had been warned about at home.' He now has follow-up imaging done locally in New York, shared digitally with the Guangzhou team.\nHis summary: 'For a rare disease, go where it is common. I did not need the fanciest hospital in the world. I needed the hospital that had seen my exact cancer a thousand times.'"
+ },
+ {
+  "id": "eye-g0",
+  "category": "Eye care",
+  "type": "overview",
+  "title": "Eye care in Guangzhou: the hospitals, the scale, and what they treat",
+  "summary": "One city, world-class eye care: Guangzhou's ophthalmic institutions, their volumes, their specialties, and how international patients use them.",
+  "content": "Guangzhou is one of the best cities in the world to need an eye doctor, and it is not particularly close. This overview explains why, before the department guides and patient stories that follow.\nThe center of gravity is Zhongshan Ophthalmic Center, affiliated with Sun Yat-sen University - by most measures the largest and most research-productive eye hospital in China, and one of the busiest in the world. It sees well over a million outpatient visits a year across its campuses, covers every subspecialty of ophthalmology - cornea and refractive surgery, cataract, glaucoma, retina, pediatric ophthalmology, ocular surface disease including dry eye - and trains ophthalmologists from across the country and beyond.\nAround it, the ophthalmology departments of Guangzhou's major general hospitals and several strong specialist clinics add capacity and choice, particularly for patients who want private-clinic service levels or faster scheduling for routine procedures.\nWhat the volume means in practice: refractive surgery (LASIK/SMILE) and cataract surgery are deeply routinized, with screening and surgical workflows refined across enormous case numbers; subspecialty clinics - glaucoma, retina, pediatric - handle case complexity at a scale where rare conditions are, relatively speaking, routine.\nFor international patients, the practical pattern is simple: short-stay procedures (vision correction, cataract, dry eye treatment courses) fit a one-week visit; complex disease management usually starts with a remote review of imaging to confirm the trip is worthwhile.\n\nTypical fees at Guangzhou public 3A hospitals - 8 common examinations and 12 common treatments (reference prices converted at roughly 6.7 RMB per US dollar; actual fees follow the hospital's written quote):\nSpecialist consultation (registration): 50 - 100 RMB (about 7 - 15 USD)\nVision test and refraction: 30 - 80 RMB (about 4 - 12 USD)\nEye pressure measurement (IOP): 20 - 40 RMB (about 3 - 6 USD)\nFundus photography: 50 - 100 RMB (about 7 - 15 USD)\nOCT scan: 200 - 300 RMB (about 30 - 45 USD)\nVisual field test: 150 - 300 RMB (about 22 - 45 USD)\nCorneal topography: 150 - 300 RMB (about 22 - 45 USD)\nEye ultrasound (B-scan): 80 - 150 RMB (about 12 - 22 USD)\nLASIK (both eyes, package): 10,000 - 20,000 RMB (about 1,500 - 3,000 USD)\nSMILE / full-femtosecond (both eyes): 15,000 - 30,000 RMB (about 2,200 - 4,500 USD)\nCataract surgery + standard lens (one eye): 5,000 - 10,000 RMB (about 750 - 1,500 USD)\nPremium lens upgrade (per eye, add-on): 3,000 - 10,000 RMB (about 450 - 1,500 USD)\nGlaucoma surgery (trabeculectomy class): 15,000 - 40,000 RMB (about 2,200 - 6,000 USD)\nRetinal detachment repair: 20,000 - 50,000 RMB (about 3,000 - 7,500 USD)\nAnti-VEGF injection (per injection): 3,000 - 8,000 RMB (about 450 - 1,200 USD)\nDry eye course (IPL + expression, per course): 2,000 - 6,000 RMB (about 300 - 900 USD)\nChalazion removal: 300 - 800 RMB (about 45 - 120 USD)\nPterygium excision: 2,000 - 5,000 RMB (about 300 - 750 USD)\nStrabismus correction surgery: 8,000 - 20,000 RMB (about 1,200 - 3,000 USD)\nOrthokeratology (Ortho-K) fitting, per year: 6,000 - 12,000 RMB (about 900 - 1,800 USD)\nSource: government-published reference prices for public medical services (Guangzhou Municipal Healthcare Security Administration); hospitals may set fees up to the published ceiling. Actual fees follow the hospital's written quote.\nGetting there: the hospital's main campuses are in Zhujiang New Town and Yuexiu District, about 40-50 minutes by taxi from Guangzhou Baiyun International Airport (roughly 150-220 RMB), or just over an hour by metro via Line 3. Tap the Directions button on this page to open the hospital in your maps app and choose your campus.\n\n---\nClinic schedules\nUpdated regularly. Physician consultation schedules and subspecialty clinic times for international patients will be listed in this section as confirmed. Contact us for current availability.",
+  "map_query": "Zhongshan Ophthalmic Center, Guangzhou"
+ },
+ {
+  "id": "eye-g1",
+  "category": "Eye care",
+  "type": "guide",
+  "title": "Vision correction surgery in China: SMILE, LASIK and what they cost",
+  "summary": "China is one of the world's highest-volume markets for laser vision correction. What international patients should know about technology, pricing and recovery.",
+  "content": "Laser vision correction - LASIK, SMILE, and surface procedures like TransPRK - is one of the most mature categories of medical travel to China, for a simple reason: enormous volume has made Chinese eye centers extraordinarily experienced at it.\nPricing, in plain numbers: at leading centers in Guangzhou, LASIK for both eyes typically runs about 10,000 - 20,000 RMB (roughly $1,500 - $3,000), and SMILE - the newer, flapless procedure - about 15,000 - 30,000 RMB (roughly $2,200 - $4,500). Chinese clinics commonly bundle pre-operative screening and a year of follow-up visits into a single package price.\nThe technology itself is globally standardized. SMILE requires the Zeiss VisuMax femtosecond laser, and top Guangzhou centers operate the same generation of equipment you would find in any major US refractive surgery practice. The real differentiator is volume: high-volume Chinese refractive centers perform tens of thousands of procedures, and their screening protocols are correspondingly systematic.\nFor international patients, the practical appeal is that vision correction is a short-stay procedure: screening on day one, surgery on day two or three, a follow-up check, and most patients are cleared to fly within about a week. That makes it easy to combine with a wider trip.\nTwo cautions that apply everywhere, including China: not every eye is a candidate (corneal thickness and stability decide), and the surgeon's screening honesty matters more than the brand name of the clinic. A center that turns away poor candidates is a center you can trust."
+ },
+ {
+  "id": "eye-g2",
+  "category": "Eye care",
+  "type": "guide",
+  "title": "Cataract surgery in China: why so many overseas Chinese come back for it",
+  "summary": "Cataract surgery is one of the most common procedures returning overseas Chinese request in Guangzhou. How quality and pricing compare.",
+  "content": "Ask staff at any major Guangzhou eye hospital's international desk what returning overseas Chinese request most, and cataract surgery is consistently near the top of the list. The reasons are practical.\nFirst, volume and routine. Cataract surgery is the most commonly performed surgery in the world, and China's leading eye centers perform it at industrial scale - senior surgeons routinely complete thousands of cases. Phacoemulsification, the standard technique, is the same everywhere; what differs is how deeply routinized the team's workflow is.\nSecond, lenses. The intraocular lens (IOL) choice drives most of the cost difference. In China, the full range of premium IOLs - toric, multifocal, extended depth of focus - is available. At public hospitals the lens is a small part of the total fee; premium categories typically add 3,000 - 10,000 RMB (roughly $450 - $1,500) per eye, quoted in writing.\nThird, speed. A typical patient journey in Guangzhou: consultation and biometry on day one, surgery on one eye on day two, the second eye a few days later, a final check, and fly home within about ten days.\nWho is it right for? Patients with straightforward age-related cataracts do best. Complex cases - previous retinal surgery, corneal disease, very dense cataracts - should seek centers with subspecialty retina and cornea teams on site, which the major Guangzhou eye hospitals have.\nThe pattern we see most often among returning overseas Chinese: the surgery is for a parent. Adult children arrange the trip, accompany their mother or father, and the whole family treats it as a reunion that happens to include an operating room. It is one of the warmest categories of medical travel we coordinate."
+ },
+ {
+  "id": "eye-g3",
+  "category": "Eye care",
+  "type": "guide",
+  "title": "Complex eye disease in China: glaucoma, retina conditions and where experience actually sits",
+  "summary": "For common vision problems the world is flat. For complex eye disease, volume and subspecialty depth still matter - and that is where major Chinese centers compete.",
+  "content": "For routine eye care - glasses, basic cataracts, standard LASIK - the gap between countries has largely closed, and travel is rarely worth it. The case for China is different in complex disease: glaucoma, diabetic retinopathy, macular degeneration, retinal detachment, and pediatric eye conditions.\nHere, the argument is volume again. China has one of the world's largest glaucoma patient populations, and its leading centers manage vast numbers of medically and surgically complex cases. The same is true for diabetic eye disease, which Chinese retina departments see at a scale most Western clinics never approach. Surgical technique for retinal detachment repair, anti-VEGF injection protocols, and glaucoma drainage procedures are all areas where high-volume Chinese teams publish internationally.\nPractical guidance by condition. Glaucoma: travel makes sense for surgical evaluation, less so for routine medication management, which can continue at home. Retinal detachment: this is an emergency everywhere - do not fly with a detaching retina; handle acute episodes locally, and travel for planned retinal surgery only. Macular degeneration: anti-VEGF injections are given in series, so plan either an extended stay or a split arrangement (initial injections in China, continuation at home - coordinate this with both physicians).\nFor any complex case, the most important step is the remote review: send your imaging (OCT scans, visual fields, fundus photos) and let the Chinese team tell you honestly whether traveling is likely to change your outcome. Sometimes the answer is no - and a center that tells you that is worth trusting later when the answer is yes."
+ },
+ {
+  "id": "eye-g4",
+  "category": "Eye care",
+  "type": "guide",
+  "title": "Seeing an eye doctor in Guangzhou as a foreigner: appointments, language and timing",
+  "summary": "A practical walkthrough of how an international patient actually gets eye care in Guangzhou, from booking to post-op checks.",
+  "content": "Eye care is the most logistics-friendly category of medical travel: short stays, predictable schedules, and fast recovery. Here is how the process typically runs in Guangzhou.\nBooking: major public eye hospitals accept international patients through their international offices or through a coordinator. For refractive surgery (LASIK/SMILE), slots are plentiful - booking one to two weeks ahead is usually enough. For senior specialists in glaucoma or retina, allow more lead time; their clinics book out.\nLanguage: the international desk covers registration and basic navigation, but clinical conversations move fast. For anything beyond routine screening, dedicated interpretation makes a measurable difference - informed consent forms, surgical planning discussions, and discharge instructions all deserve a translator who is actually listening, not just relaying words.\nTiming patterns that work: vision correction - arrive day one for screening, surgery day two or three, check day five or six, fly day seven. Cataract - about ten days for both eyes. Retina injections - plan per injection cycle.\nCosts and payment: public hospitals quote published, moderate fees; expect to pay a deposit to secure a surgery slot. Bring a card that works internationally, and set up Alipay or WeChat Pay before arrival - they now accept most foreign cards.\nAftercare across borders: before you fly home, get a written summary in English, your operative records, and a plan for local follow-up. Any reputable center will provide this without being asked; if one hesitates, treat that as a warning sign."
+ },
+ {
+  "id": "eye-g5",
+  "category": "Eye care",
+  "type": "guide",
+  "title": "Eye procedure costs in China: a practical price guide",
+  "summary": "What common eye procedures cost at Chinese hospitals and clinics - in RMB and US dollars - and the line items people forget.",
+  "content": "A practical price guide for the most common eye procedures, based on typical fees at Chinese public hospitals and established clinics. Figures are indicative for the mid-2020s - always confirm with the hospital's written quote, which is the number that counts.\nVision correction: LASIK for both eyes typically runs 10,000 - 20,000 RMB (roughly $1,500 - $3,000); SMILE, the premium flapless option, runs 15,000 - 30,000 RMB (roughly $2,200 - $4,500). Package prices usually include pre-operative screening and a year of follow-up visits.\nCataract surgery: at public hospitals the surgical fee itself is modest; the total per eye depends mostly on the lens chosen. A standard monofocal case commonly runs 5,000 - 10,000 RMB (roughly $750 - $1,500) per eye; premium lens categories typically add 3,000 - 10,000 RMB.\nGlaucoma and retina: harder to pin to a single line because case mix dominates. Surgical fees at top public hospitals are published and moderate - glaucoma procedures commonly 15,000 - 40,000 RMB ($2,200 - $6,000), retinal detachment repair roughly 20,000 - 50,000 RMB ($3,000 - $7,500), and anti-VEGF injections about 3,000 - 8,000 RMB ($450 - $1,200) per injection at public-channel pricing.\nThe line items people forget in any country: pre-operative testing, post-operative medications, enhancement policies (what happens if the first result needs a touch-up - get this in writing), and the travel itself.\nOne structural note: written quotes are standard practice in China - itemized, in advance, and honored as the cash price. Ask for one before committing to anything."
+ },
+ {
+  "id": "eye-g6",
+  "category": "Eye care",
+  "type": "guide",
+  "title": "Dry eye: the screen-age epidemic, and why treatment in China goes beyond eye drops",
+  "summary": "Dry eye disease now affects a huge share of adults in screen-heavy economies. What modern Chinese eye hospitals offer beyond lubricating drops.",
+  "content": "If your eyes burn by mid-afternoon, feel gritty by evening, and water at random moments - you are describing dry eye disease, and you have enormous company. Studies across industrialized economies consistently find that a large share of adults - by some estimates a third or more - report dry eye symptoms, driven by screens, contact lenses, air conditioning, and aging.\nThe standard first line of treatment everywhere is artificial tears. The problem: for moderate-to-severe dry eye, drops treat the sensation without addressing the causes - and many patients spend years cycling through bottles without ever getting a structured diagnosis.\nWhat does a modern dry eye workup actually look like? At an equipped eye hospital, it includes tear film break-up time measurement, meibomian gland imaging (the oil glands along the eyelid rim whose dysfunction is the leading cause of evaporative dry eye), ocular surface staining, and sometimes tear osmolarity testing. This is the step most sufferers skip, and it changes treatment completely - because evaporative dry eye from blocked meibomian glands is managed very differently from aqueous-deficient dry eye.\nTreatment beyond drops, available at leading Chinese eye centers: warm compress and eyelid hygiene protocols taught properly rather than improvised at home, in-office meibomian gland expression, intense pulsed light (IPL) therapy for gland dysfunction - a technology originally from dermatology that has become a standard dry eye treatment at well-equipped clinics - and punctal plugs for selected aqueous-deficient cases.\nWhy consider doing this in Guangzhou? The equipment is the same generation as top Western clinics; the cost of a structured workup plus a treatment course is quite moderate; and clinics handle high volumes, which matters for technique-dependent procedures like gland expression. For international patients, a typical plan is one week: workup, two or three treatment sessions, a home-care protocol, and local follow-up arranged with your eye doctor at home.\nWhen to see someone urgently instead: sudden vision change, severe pain, or discharge is not 'dry eye' and should be evaluated promptly wherever you are."
+ },
+ {
+  "id": "eye-s1",
+  "category": "Eye care",
+  "type": "story",
+  "title": "A software engineer flew 7,000 miles for SMILE surgery and was sightseeing the next afternoon",
+  "summary": "Based on a real case; identifying details have been removed. The classic short-stay vision correction journey.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nK., a software engineer from Seattle, had wanted laser vision correction for years and kept not doing it - the US quotes ran several thousand dollars per eye for the SMILE procedure his research favored, and his insurance considered all of it elective.\nA colleague from Guangzhou suggested he price the same procedure there. One email exchange brought a complete written package: screening, surgery, all medications, and one year of follow-up visits, quoted at 16,000 RMB (about $2,400). He booked a week of vacation and flew.\nThe screening almost said no. His corneal thickness was adequate but not generous, and the surgeon spent forty minutes explaining his specific numbers - why he qualified, where his margin was, and what the small enhancement risk meant. 'That conversation was worth the flight by itself,' he told us. 'Nobody at home had ever walked me through my own measurements.'\nThe surgery itself took minutes. The next afternoon, per his own account, he was walking around Shamian Island taking photos, squinting happily at street signs he could now read without glasses.\nHe flew home on day seven with a written record, a set of follow-up appointments he could do locally, and a direct contact at the clinic for questions. Total time off work: one week.\nHis advice for others considering it: 'Do the screening honestly - if a clinic says yes to everyone, run. And get the enhancement policy in writing before you pay anything. Mine was, in one sentence, in the package. That sentence mattered.'"
+ },
+ {
+  "id": "eye-s2",
+  "category": "Eye care",
+  "type": "story",
+  "title": "Her mother's cataracts brought a daughter back to Guangzhou - and turned into a family reunion",
+  "summary": "Based on a real case; identifying details have been removed. The most common eye-surgery journey we coordinate.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nThe call came from Toronto. A woman in her thirties, originally from Guangzhou, wanted cataract surgery for her seventy-one-year-old mother - but in Guangzhou, not Canada, where the wait for a specialist was months and her mother's eyesight was failing week by week.\nThe logistics were the kind we handle routinely: records reviewed remotely, both eyes scheduled across one week, a premium multifocal lens chosen after a long discussion between mother, daughter, and the surgeon about realistic expectations - reading, distance, and the compromises involved.\nThe daughter's description of the surgery week: her mother nervous on day one, chatty on day three, demanding to read the restaurant menu unaided by day five - a small act that made the whole table go quiet.\nWhat the daughter emphasized afterward was not the money, though the written quote had made the decision easy. It was that her mother was treated 'like one of a thousand patients a month - which sounds bad, but means everyone on that team has done this exact surgery more times than I can count. Steady hands. No drama.'\nThe family turned the trip into a reunion: cousins appeared, a banquet happened, the mother showed off her new eyesight to relatives who remembered her in thick glasses forty years earlier.\nTen days after arrival, they flew home. The mother now sends the clinic a photo every Chinese New Year. It is, her daughter says, 'the best review format that exists.'"
+ },
+ {
+  "id": "eye-s3",
+  "category": "Eye care",
+  "type": "story",
+  "title": "A diabetic's retina, an injection plan, and two countries sharing one chart",
+  "summary": "Based on a real case; identifying details have been removed. A story about coordinated cross-border retina care.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nJ., a man in his sixties with long-standing diabetes, was losing vision to diabetic retinopathy. Anti-VEGF injections - the standard treatment - were expensive under his US insurance's specialty tier, and his out-of-pocket per injection was painful enough that he had been stretching his intervals, which is exactly what you must not do with this treatment.\nHis retinal specialist in the US was understanding about the exploration; good specialists are. J.'s family arranged a review at a Guangzhou eye hospital with a major retina service. The Chinese team proposed an initial series: three injections over six weeks, with full imaging before and after, plus laser treatment for one area.\nThe written quote decided it: one complete price for the series - injections, imaging, laser - that the family could plan around, even after flights and a six-week apartment rental.\nThe harder part - and the part that made it work - was the handoff. Before J. flew home, both sides agreed on the plan: his Guangzhou records, imaging, and injection log went to his US retina specialist in a single organized package; the next injections continued at home; and the two physicians had a direct channel for questions.\nHis vision stabilized. His US specialist, reviewing the Chinese imaging, told him the treatment had been 'by the book - actually, better than the book, because their injection intervals were tighter than what your insurance would have allowed.'\nThe lesson J. passes on: the treatment was the easy part. The coordination - records, continuity, two physicians willing to share a chart - was the real service. Plan for that as carefully as you plan the flights."
+ },
+ {
+  "id": "eye-s4",
+  "category": "Eye care",
+  "type": "story",
+  "title": "A teacher's glaucoma surgery in Guangzhou - and what she did with the money she saved",
+  "summary": "Based on a real case; identifying details have been removed. A story about elective surgical timing and honest expectations.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nA., a retired teacher from Sydney, had glaucoma that was drifting despite maximal medications - her pressure readings were creeping up, and her Australian ophthalmologist had mentioned surgical options with the familiar caveat: the public queue was long, and private pricing was substantial.\nHer son, working in Shenzhen, arranged a review at a Guangzhou glaucoma service known for high surgical volume. The team's response was careful and specific: she was a reasonable surgical candidate, they recommended a minimally invasive procedure combined with cataract removal (a common pairing in her age group), and they gave her their own published outcomes data for the procedure.\nShe came for a two-week stay. The surgery went as planned; pressure normalized; her medication list shrank from three bottles to one.\nThe detail she wanted recorded, when we asked what stood out: her surgeon spent the pre-operative consultation managing expectations downward, not up - walking her through the realistic ceiling for her particular optic nerve, not the best case from the literature. 'I trusted him more, not less, after that,' she said.\nAnd the money? The written quote was a number she could plan around - modest enough that she flew her granddaughter to Guangzhou for the recovery week. The two of them, in her words, 'ate our way through the city between eye drops.'\nHer advice for glaucoma patients considering travel: bring years of visual field printouts, not just recent ones - trend data is what surgical planning really runs on."
+ },
+ {
+  "id": "eye-s5",
+  "category": "Eye care",
+  "type": "story",
+  "title": "Three generations, one clinic: the family that scheduled eye exams around a wedding",
+  "summary": "Based on a real case; identifying details have been removed. When eye care becomes the anchor of a family trip home.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nNot every medical journey is a crisis. Some are simply sensible logistics - like the overseas Chinese family that timed a Guangzhou trip so that three generations could get their eyes checked in one efficient week: the grandmother for cataract evaluation, the father for a diabetic retina screening, and the teenage son, who wanted to ask about sports and contact lenses.\nThey arrived the week of a cousin's wedding, which gave the whole visit its frame: morning appointments at the eye hospital, afternoons with relatives, the wedding banquet on the weekend, and a follow-up visit scheduled before the flight home.\nWhat made it work was batching. One coordinator handled all three sets of appointments; imaging for grandmother and father was done the same morning; the teenager's consultation slotted into the same building on the same day. Total clinic time for the whole family: about six hours spread over two days.\nNothing dramatic happened, which is the point. The grandmother's cataract was graded and a surgical plan set for her next visit. The father's retina was clean. The teenager got a sensible contact lens protocol and one serious talk about not sleeping in them.\nThe mother, who organized it, summarized the week: 'We did not come to China because of the eyes. But while we were here, we used the system the way locals use it - fast, thorough, and cheap by our standards. Why would we not?'\nThis is the quietest and most common form of medical travel we see: not desperation, but efficiency. The infrastructure is there; you only need to know how to use it."
+ },
+ {
+  "id": "eye-s6",
+  "category": "Eye care",
+  "type": "story",
+  "title": "Two years of burning eyes, fixed in one week: a dry eye patient's treatment course in Guangzhou",
+  "summary": "Based on a real case; identifying details have been removed. From eye-drop dependence to a real diagnosis and structured treatment.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nR., a marketing director from Los Angeles, had been treating her 'tired eyes' with over-the-counter drops for two years. By the time she sought real help, she was using drops hourly, her contact lenses were unbearable by noon, and her productivity - she screens ten hours a day - was visibly suffering. A dry eye specialist consultation had been on her to-do list for months, always sliding down her priorities.\nIn Guangzhou for a family matter, she booked a dry eye workup at a major eye hospital more out of curiosity than hope.\nThe workup was the revelation. Meibography - imaging of her eyelid oil glands - showed significant gland blockage, a diagnosis no one had ever actually performed a test for. Her problem was not 'not enough tears'; it was that the tear film's oil layer was failing, letting her tears evaporate within seconds.\nThe treatment course ran five sessions across six days: in-office meibomian gland expression, an IPL session, a taught-not-guessed lid hygiene protocol, and honest counseling that this was management, not a one-shot cure.\nThe change, in her follow-up email two months later: drops down from hourly to twice daily, contacts tolerable again, and - the detail she underlined - 'for the first time in two years, my 4pm self is not negotiating with my eyeballs.'\nHer advice to fellow sufferers: 'Stop buying drops and get the gland imaging first. The diagnosis took twenty minutes. I had wasted two years treating the wrong layer of the problem.'"
+ },
+ {
+  "id": "dental-g0",
+  "category": "Dental",
+  "type": "overview",
+  "title": "Dentistry in Guangzhou: the hospitals, the scale, and what they treat",
+  "summary": "Stomatology hospitals, university clinics, private practices: Guangzhou's dental landscape and where different cases belong.",
+  "content": "Dental care in Guangzhou spans three tiers, and knowing which tier fits your case is the single most useful piece of navigation knowledge. This overview maps all three before the detailed guides and patient stories that follow.\nThe top tier is the university stomatology hospitals - most notably the hospital of Guanghua School of Stomatology at Sun Yat-sen University and the Guangdong Provincial Stomatological Hospital. These are full-scale dental hospitals with oral surgery departments, implant programs, orthodontic departments, and hospital-grade imaging and sterile surgical facilities. Complex surgical cases - multiple implants, full-arch work, jaw surgery, cases with significant medical history - belong here.\nThe middle tier is the dental department of major general hospitals, useful when dental work intersects with other health conditions.\nThe third tier is private dental clinics, which range from single-chair neighborhood practices to large multi-branch chains with in-house laboratories, digital workflows, and strong service for international patients. Routine restorative work, crowns, veneers, and aligner orthodontics are handled excellently at the better private clinics - often with faster scheduling and more English support than the public hospitals.\nScale: Guangzhou's leading stomatology hospital handles hundreds of thousands of visits a year, and the better private chains each serve tens of thousands. The city's dental laboratory industry is deep, which is one reason turnaround times for crowns and prosthetics are short.\nPricing across all tiers is published and moderate, with implant and prosthetic work drawing the most international patients.\n\nTypical fees at Guangzhou public 3A hospitals - 8 common examinations and 12 common treatments (reference prices converted at roughly 6.7 RMB per US dollar; actual fees follow the hospital's written quote):\nSpecialist consultation (registration): 50 - 100 RMB (about 7 - 15 USD)\nOral exam + panoramic X-ray: 100 - 200 RMB (about 15 - 30 USD)\nCBCT scan: 200 - 400 RMB (about 30 - 60 USD)\nPulp vitality test: 50 - 100 RMB (about 7 - 15 USD)\nPeriodontal exam and charting: 50 - 150 RMB (about 7 - 22 USD)\nImpressions and bite records: 100 - 300 RMB (about 15 - 45 USD)\nCephalometric X-ray: 100 - 200 RMB (about 15 - 30 USD)\nFull-mouth cleaning (scaling): 200 - 500 RMB (about 30 - 75 USD)\nComposite filling (per tooth): 300 - 800 RMB (about 45 - 120 USD)\nRoot canal, front tooth / premolar: 800 - 2,000 RMB (about 120 - 300 USD)\nRoot canal, molar: 2,000 - 4,000 RMB (about 300 - 600 USD)\nZirconia crown (domestic): 2,000 - 4,000 RMB (about 300 - 600 USD)\nZirconia crown (imported brand): 4,000 - 6,000 RMB (about 600 - 900 USD)\nPorcelain veneer (per tooth): 2,500 - 8,000 RMB (about 370 - 1,200 USD)\nDental implant (fixture + abutment + crown): 4,000 - 20,000 RMB (about 600 - 3,000 USD)\nAll-on-4 (per arch): 80,000 - 200,000 RMB (about 12,000 - 30,000 USD)\nMetal braces (full treatment): 15,000 - 30,000 RMB (about 2,200 - 4,500 USD)\nDomestic clear aligners (full treatment): 25,000 - 50,000 RMB (about 3,700 - 7,500 USD)\nInvisalign (full treatment): 35,000 - 60,000 RMB (about 5,200 - 9,000 USD)\nTooth extraction (simple / complex): 200 - 1,500 RMB (about 30 - 220 USD)\nSource: government-published reference prices for public medical services (Guangzhou Municipal Healthcare Security Administration); hospitals may set fees up to the published ceiling. Actual fees follow the hospital's written quote.\nGetting there: the university stomatology hospital is in central Yuexiu District, about 40 minutes by taxi from Guangzhou Baiyun International Airport (roughly 150-200 RMB), or about an hour by metro via Line 3. Tap the Directions button on this page to open the hospital in your maps app.\n\n---\nClinic schedules\nUpdated regularly. Recommended clinics and physicians for international patients, with consultation times, will be listed in this section as confirmed. Contact us for current arrangements.",
+  "map_query": "Guanghua School of Stomatology, Sun Yat-sen University, Guangzhou"
+ },
+ {
+  "id": "dental-g1",
+  "category": "Dental",
+  "type": "guide",
+  "title": "Dental implants in China: what they cost, and why prices stay low",
+  "summary": "A single implant at a quality clinic in China typically runs 4,000 - 20,000 RMB ($600 - $3,000). What sits behind the pricing - and what to watch.",
+  "content": "Dental implants are the single biggest driver of dental travel to China, and the published, itemized pricing makes the category easy to plan.\nWhat it costs in China: a single implant - fixture, abutment, and crown - at a quality clinic typically runs about 4,000 - 20,000 RMB (roughly $600 - $3,000), depending on the implant system. Full-arch solutions such as All-on-4 commonly run 80,000 - 200,000 RMB per arch (roughly $12,000 - $30,000).\nInternational-brand systems (Straumann, Nobel Biocare, and widely used Korean brands) sit at the upper end of that range; Chinese domestic systems - which published studies show performing comparably - anchor the lower end. Government centralized procurement (VBP) has kept system prices low and stable, and clinics quote itemized written estimates.\nMaterial standards for implant systems are similar everywhere; China's edge is manufacturing scale - many of the world's implants are made there - together with transparent public-pricing norms that keep the market competitive.\nWhat to watch for, wherever you go: total-quote transparency (fixture, abutment, crown, grafting, imaging as separate line items), the surgeon's implant volume, sterilization standards, and who handles complications if something fails after you fly home. Get the warranty in writing, and plan a local follow-up arrangement before you travel.\nFor one or two implants, a special trip is rarely justified. For multiple implants, full arches, or complex reconstructions, patients typically plan a dedicated visit: one to two weeks for the surgical phase, with final restorations completed on a second trip or by a partner clinic at home."
+ },
+ {
+  "id": "dental-g2",
+  "category": "Dental",
+  "type": "guide",
+  "title": "Orthodontic treatment in China: what it costs, in plain US dollars",
+  "summary": "Metal braces, clear aligners, lingual systems - typical full-treatment prices across China, what the fee covers, and how to plan visits as an international patient.",
+  "content": "Orthodontics - braces and clear aligners - is one of the most requested dental treatments among visitors to China, and one of the easiest to plan for, because the pricing is straightforward once you know the categories. This guide lists what treatment typically costs in China in US dollars, so you can budget without guessing.\nWhat treatment costs, by appliance type (typical full-treatment fees, converted at roughly 6.7 RMB per US dollar):\nMetal braces: about $2,200 - $4,500.\nCeramic braces: about $3,000 - $6,000.\nDomestic clear aligners (brands such as Angelalign): about $3,700 - $7,500.\nInternational clear aligners (Invisalign): about $5,200 - $9,000.\nLingual braces (brackets placed behind the teeth): about $7,500 - $15,000.\nEarly interceptive treatment for children: about $1,200 - $3,000.\nWhat the fee usually covers: the initial records (scans, X-rays, photographs), the appliance itself, all adjustment visits across the full treatment period, and a set of retainers at the end. Items billed separately at most clinics: tooth extractions, auxiliary devices such as mini-implants, and replacement aligners or brackets if lost.\nWhat moves the price: case complexity comes first - a mild crowding case and a surgical case are very different products. Doctor seniority matters; so does the clinic tier - university stomatology hospitals and established chains price higher than single-chair practices, usually for reasons that are real. The aligner brand is the last variable: domestic systems have closed much of the quality gap and cost less, while the international premium brands remain popular with patients who prefer the original system.\nHow long it takes: most comprehensive cases run 18 to 30 months, with an adjustment visit every 4 to 8 weeks. For international patients, the treatment rhythm matters more than the first visit: plan the records and fitting into one trip, then handle reviews through scheduled return visits or remote monitoring, against the written treatment plan you take home.\nThree things to get in writing before you pay: an itemized quote separating the appliance fee from visits and extras; how many refinement rounds or replacement appliances are included; and who handles mid-treatment issues - a broken bracket, a lost aligner - and at what cost. Keep every record: your home orthodontist will want the full file for the retention phase."
+ },
+ {
+  "id": "dental-g3",
+  "category": "Dental",
+  "type": "guide",
+  "title": "Crowns, veneers and cosmetic dentistry: quality markers that matter more than price",
+  "summary": "Cosmetic dentistry is where quality variation is greatest, in every country. How to evaluate a clinic before you book a flight.",
+  "content": "Cosmetic dentistry - crowns, veneers, whitening, smile design - is the category where international patients most need to slow down, because quality variation is enormous in every country, and price is the worst possible proxy.\nThe materials are global. The same zirconia blocks, lithium disilicate (the material behind most premium veneers), and CAD/CAM milling systems are used in Guangzhou and Los Angeles. What differs is everything around the material: the design sense of the dentist, the laboratory's artistry, the photography and mock-up workflow, and how honestly the clinic handles cases it should decline (severely misaligned bites covered with veneers is the classic malpractice pattern - a good clinic says no).\nQuality markers that actually predict outcomes: a clinic that photographs everything (before, preparation, temporaries, final) and shows you a mock-up before touching a tooth; a dentist who discusses occlusion and gum health before discussing shade; a laboratory you can ask questions about (many top Chinese clinics have in-house labs, which shortens turnaround dramatically); and transparent itemization of what is crown, what is veneer, and what is simply unnecessary.\nPricing context, in plain numbers (converted at roughly 6.7 RMB per US dollar): a quality zirconia crown at an established clinic typically runs about 2,000 - 6,000 RMB (roughly $300 - $900). A porcelain veneer per tooth typically runs about 2,500 - 8,000 RMB (roughly $370 - $1,200); a full smile-design case of six to eight veneers commonly totals 20,000 - 80,000 RMB (roughly $3,000 - $12,000). The spread within China is also wide: university stomatology hospital departments and established private clinics price higher than storefront operations, for reasons that are usually real.\nThe rule we give every cosmetic patient: choose the clinician, not the package. A beautiful smile designed by a careful clinician survives decades; a cheap smile often needs redoing within years - and redoing veneers is far more expensive than doing them right once."
+ },
+ {
+  "id": "dental-g4",
+  "category": "Dental",
+  "type": "guide",
+  "title": "Seeing a dentist in Guangzhou as a foreigner: appointments, language and realistic timelines",
+  "summary": "Dentistry is the most schedule-friendly medical travel category. How the process runs for international patients in Guangzhou.",
+  "content": "No medical category fits international schedules better than dentistry: predictable appointment lengths, minimal systemic risk, fast recovery, and results you can verify with your own eyes before you fly home.\nWhere to go: Guangzhou's stomatology (dental) hospitals and hospital-affiliated dental departments handle the full range from implants to orthodontics, with senior specialists available at public-hospital prices. Established private dental clinics compete on service, English support, and scheduling speed. Both are legitimate choices; complex surgical cases belong with hospital departments, routine restorative work is fine in quality private clinics.\nLanguage: dentistry is the most visual of medical fields - you can verify much of the work chairside, watching mirrors and intraoral cameras. Still, consent forms, treatment plans, and material choices deserve proper interpretation, not gestures.\nTimelines that work. Crowns and veneers: about one week - preparation day one, laboratory days two to five, fitting day six or seven. Implants: the surgical placement plus a healing period; if the clinic and case allow immediate provisionalization, one week suffices for the surgical phase, with the final crown placed on a second trip months later (or handled by a partner clinic at home - many patients do this). Aligners and ortho: initial visit of a few days, then long-interval reviews.\nCosts and paperwork: expect deposits for laboratory work; request an itemized written plan before any tooth is touched. Keep every record - X-rays, photos, material invoices - because your home dentist will want them for maintenance.\nAnd the universal rule of dental travel: never let anyone drill for a quote you have not seen in writing."
+ },
+ {
+  "id": "dental-g5",
+  "category": "Dental",
+  "type": "guide",
+  "title": "Planning a dental trip to China: treatment plus travel, without the rookie mistakes",
+  "summary": "The practical playbook: how to sequence dental work and tourism so neither ruins the other.",
+  "content": "The dream version of a dental trip: world-class treatment in the morning, dim sum at noon, sightseeing in the afternoon. The realistic version can match that dream - if you sequence it correctly.\nThe golden rule: tourism before treatment, not after. Schedule your light days first - consultations, imaging, maybe hygiene - while you enjoy the city. Put surgery and major work in the middle. Keep your last two days quiet: final fittings, checks, and recovery margin before the flight. Flying immediately after implant surgery or extensive extractions is uncomfortable and occasionally unwise; your dentist will confirm clearance.\nHow long for what: cleanings, fillings, single crowns - three to five days comfortably. Veneer smile design - seven to ten days. Multiple implants - a week for the surgical phase, knowing a second trip is likely months later for final restorations. Full-arch work - longer, and plan a serious recovery buffer.\nThe paperwork that protects you: written itemized treatment plan; material brand and lot documentation (implants especially - this is your warranty's foundation); before-and-after photography of your own case; and contact details for both the treating clinic and your home dentist, who should receive your records.\nMoney: spread payments align with milestones - deposit at planning, balance at completion, never everything upfront. Cards and mobile payments work; bring a backup card.\nFinally, resist the mega-package temptation. The clinics worth flying to sell you the dentistry you need - and say no to the dentistry you do not. 'While you are here, we can also...' should make you more cautious, not less."
+ },
+ {
+  "id": "dental-s1",
+  "category": "Dental",
+  "type": "story",
+  "title": "Six implants in five days: a retiree's math on getting his smile back",
+  "summary": "Based on a real case; identifying details have been removed. When the treatment plan is the trip itinerary.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nF., a retiree from Florida, had lived with a failing dentition for years. His treatment plan back home - six implants supporting a fixed bridge - came with a price that made him laugh out loud in the consultation, and not happily. He put the folder away and did not open it again.\nHis daughter's colleague, originally from Guangzhou, suggested he price the identical plan there: same implant system category, same prosthetic design. The written quote he received - itemized, in English - was a number he could plan a trip around.\nHe spent a month verifying before committing: implant brand documentation, the surgeon's case volume, sterilization protocols, and - the step he credits most - a video consultation where the surgeon reviewed his own CT scan with him on screen, pointing out exactly where bone quality made each implant straightforward or careful.\nThe trip: five days. Day one, records and final planning. Day two, implant placements under sedation - six fixtures, about two hours chair time. Days three to five, recovery, a soft-food tour of Guangzhou's famous cuisine (adapted), a provisional prosthesis fitted, and a written home-care protocol.\nHe returned three months later for the final bridge - combining it with a family visit his daughter had always wanted him to make.\nHis verdict, emailed from his porch in Florida: 'The part nobody tells you: the waiting room was full of locals, not tourists. That is the review that mattered to me.'"
+ },
+ {
+  "id": "dental-s2",
+  "category": "Dental",
+  "type": "story",
+  "title": "The full-mouth reconstruction planned in two careful trips",
+  "summary": "Based on a real case; identifying details have been removed. A complex case, done carefully, in two planned trips.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nE., a man in his sixties from New Jersey, needed what dentists call a full-mouth reconstruction - decades of patchwork dentistry reaching its end. His consultations at home converged on a number that meant emptying savings - per arch.\nHis case was complex enough that careful staging mattered more than speed. The Guangzhou team he consulted proposed the honest version: two trips. Trip one - three weeks: extractions of hopeless teeth, implant placements in both arches using an All-on-4-pattern design, and immediate provisional fixed teeth. Trip two - four months later, after osseointegration: final zirconia bridges, one week.\nTotal cost, everything included - implants, prosthetics, both trips' accommodation - came back as one written, itemized figure the family could plan around.\nThe detail his wife remembers: the provisional teeth. 'He walked out of surgery day one with fixed teeth. Temporary ones, but fixed - not dentures in a glass. He cried in the taxi. Sixty-two years old, crying about teeth.'\nThe complication that did happen - minor gum inflammation around one implant site - was handled on trip two with an extra cleaning and an honest explanation, no drama, no extra charge.\nHis advice for anyone facing similar numbers: 'Get the two-trip structure in writing before you commit, and understand that the four months between trips is biology, not inefficiency. Anybody who promises it faster is promising you trouble. These people never promised faster. That is why I trusted them.'"
+ },
+ {
+  "id": "dental-s3",
+  "category": "Dental",
+  "type": "story",
+  "title": "A Hong Kong student's aligner journey: planned in Guangzhou, monitored from two cities",
+  "summary": "Based on a real case; identifying details have been removed. Cross-border orthodontics done the disciplined way.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nA university student from Hong Kong - a ninety-minute train ride from Guangzhou - chose clear aligner treatment coordinated across the border: records and fitting in Guangzhou at significantly lower cost, reviews scheduled around her semester breaks.\nThe structure that made it work was written down before the first aligner was worn: the full treatment plan and staging, review appointments every three months (aligned with her breaks), remote photo check-ins monthly, and a clear protocol for what constituted an emergency versus a 'wait until the next visit' issue.\nThe discipline point was hers to own, and she did: aligners worn twenty-two hours daily, logged honestly. Her result, eighteen months later, was textbook - and her cost, even including the train fares, was roughly half the quotes she had received in Hong Kong.\nThe lesson she offered for others considering cross-border orthodontics: 'The savings are real, but the system only works if you are the kind of person who follows protocols. The clinic can plan perfectly and still lose to a patient who does not wear the trays. Be honest with yourself about which patient you are before you book anything.'\nHer orthodontist's one-line summary, from the case notes: 'Ideal patient, ideal compliance, ideal result. Would accept a hundred more like this.'"
+ },
+ {
+  "id": "dental-s4",
+  "category": "Dental",
+  "type": "story",
+  "title": "Veneers for a wedding: a bride's timeline, from consultation to walk down the aisle",
+  "summary": "Based on a real case; identifying details have been removed. Cosmetic dentistry on a deadline, done conservatively.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nA bride-to-be from Vancouver had a fixed date - her wedding, four months out - and a smile she had stopped showing in photographs. Professional whitening had not been enough; her dentist discussed veneers at a price that included, as she put it, 'a number that would have eaten the honeymoon.'\nThrough family connections she consulted a Guangzhou prosthodontic team with an in-house laboratory. Their proposal was more conservative than she expected: minimal-prep veneers on six upper teeth, a mock-up she could wear and evaluate for a full day before any preparation, and a shade chosen against her skin tone in daylight, not a clinic spotlight.\nThe trip was eight days: consultation and mock-up day one, evaluation days two to three, preparation day four, laboratory days five to seven, final placement day eight. She flew home with a night guard, a maintenance protocol, and photographs of every stage for her home dentist.\nAt the wedding, she reports, two things happened: she smiled in every photo, and her mother-in-law asked for the clinic's contact information before the reception was over.\nHer advice for cosmetic dental travelers: 'Let the good clinics talk you out of things. Mine talked me out of eight veneers and into six, and out of the whitest shade and into the right one. Restraint is what expertise sounds like.'"
+ },
+ {
+  "id": "dental-s5",
+  "category": "Dental",
+  "type": "story",
+  "title": "Teeth plus a vacation: how one family turned checkups into an annual Guangzhou tradition",
+  "summary": "Based on a real case; identifying details have been removed. The lightest form of dental travel - and the most repeatable.",
+  "content": "Based on a real case. Names and identifying details have been removed.\nThe L. family - parents and two children, based in Sydney with roots in Guangdong - did not set out to become dental travelers. It happened incrementally: a grandparent's health check brought them to Guangzhou one summer, and the parents, noticing how inexpensive and efficient routine dental care was, booked cleanings and checkups for the whole family while they were there.\nThe experience rewrote their calendar. Now, roughly once a year, the family trip to Guangzhou includes two mornings at a dental clinic: cleanings, exams, X-rays, and for the children, orthodontic monitoring. The parents estimate the entire family's annual dental care - including the dental portion of the trip - costs less than a single major procedure used to cost back home.\nThe mother describes the arrangement in practical terms: 'It is not medical tourism in the dramatic sense. It is just... using a good, cheap, fast system that happens to be where our family is. The kids associate the dentist with seeing their grandmother, which is the most absurd and wonderful dental association I can imagine.'\nFor families considering the same pattern, their advice is consistent: keep it routine. Emergency dental work is stressful anywhere; the repeatable version is the preventive one - cleanings, small fillings, monitoring. Do that annually, handle the big stuff wherever it makes sense, and let the family visit be the real reason for the trip.\nIt is, in the end, the most honest summary of dental travel we know: the best dental trip is the boring one."
+ }
+]
